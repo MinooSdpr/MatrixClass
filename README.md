@@ -1,2 +1,2 @@
 # MatrixClass
-Matrix class with Operations (+ - *  /)
+Matrix class with Operations (+ - != == ++ -- =)
